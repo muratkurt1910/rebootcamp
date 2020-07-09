@@ -54,7 +54,7 @@ public class Encoder {
 
         String encyrpted = encrypt("Pzi75akktLC4BoI9");
         System.out.println(encyrpted);
-        String decrypted = decrypt( encyrpted);
+        String decrypted = decrypt("jrwz8qDdYVJKcTAX+IpakA==");
         System.out.println(decrypted);
     }
 
